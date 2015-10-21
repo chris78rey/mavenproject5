@@ -1,0 +1,9 @@
+#surefire
+#Wed Oct 21 08:01:11 COT 2015
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.0.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\git\\subversion\\transversal\\mavenproject5
+file.encoding=UTF-8
+localRepository=C\:\\Users\\christian_ruiz\\.m2\\repository
+netbeans.deploy=true
+netbeans.deploy.clientUrlPart=/faces/access-denied.xhtml
+basedir=C\:\\git\\subversion\\transversal\\mavenproject5
